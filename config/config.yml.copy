@@ -28,8 +28,8 @@ production:
   app_host: APP_HOST_HERE # e.g. osb.mydomain.com
   app_protocol: http
   activemerchant_billing_mode: test
-  wkhtmltopdf_path: YOUR_WKHTMLTOPDF_PATH  #run "which wkhtmltopdf" you will get path
-  encryption_key: ENTER-YOUR-ENCRYPTED-KEY-HERE
+  wkhtmltopdf_path: /home/seifou/.rvm/gems/ruby-2.6.5/bin/wkhtmltopdf  #run "which wkhtmltopdf" you will get path
+  encryption_key: 883d5f1c213049c8601f05d3e2565f11c60ab2f92491944452736a6fe3e95beaa1c56db98a5305ab7c4df710977c31b172f5a9c57aea8a2b4529797b8760efe0
 
   paypal:
     enabled: false
