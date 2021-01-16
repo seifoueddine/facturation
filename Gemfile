@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.4.9'
+ruby '2.6.5'
 gem 'rails', '~> 6.0.2', '>= 6.0.2.2'
 gem 'railties', '6.0.2.2'
 gem 'sprockets', '~> 4'
