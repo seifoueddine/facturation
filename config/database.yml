@@ -7,10 +7,10 @@ development:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: osb_development
+  database: facturation_db
   pool: 5
   username: root
-  password:
+  password: "123456"
   host: localhost
   variables:
     sql_mode: TRADITIONAL
