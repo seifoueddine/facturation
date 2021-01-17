@@ -10,7 +10,7 @@ development:
   database: facturation_db
   pool: 5
   username: root
-  password: "123456"
+  password: "Seaf123456"
   host: localhost
   variables:
     sql_mode: TRADITIONAL
