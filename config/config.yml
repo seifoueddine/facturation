@@ -3,7 +3,7 @@ development:
   app_protocol: http
   activemerchant_billing_mode: test
   demo_mode: false
-  wkhtmltopdf_path: YOUR_WKHTMLTOPDF_PATH  #run "which wkhtmltopdf" you will get path
+  wkhtmltopdf_path: /home/seifou/.rvm/gems/ruby-2.7.1/bin/wkhtmltopdf #run "which wkhtmltopdf" you will get path
   encryption_key: ENTER-YOUR-ENCRYPTED-KEY-HERE
 
   paypal:
